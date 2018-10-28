@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+
+}
+.products{
+	width: 100%;
+}
+.container{
+	width: 1200px;
+}
+.promotion-box{
+	float: left;
+}
+.promotion-box a{
+	
+}

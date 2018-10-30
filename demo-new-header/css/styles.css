@@ -3997,9 +3997,12 @@ a.current-location > span {
 	bottom: 10px;
 	position: relative;
 }
+.link-box {
+	color: #fff;
+}
 .store-select .dropdown-menu {
     padding: 0;
-    margin: -2px 0 0;
+    margin: -40px 0 484px;
 }
 .store-select .dropdown-menu li a {
     line-height: 25px;
